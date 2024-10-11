@@ -1,0 +1,49 @@
+/* body{
+    background: linear-gradient ( 180deg,#FF9933 33.33%, #FFFFFF 33.33% 66.66%,#138808 66.66%); 
+} */
+audio{
+    float:right;
+    opacity: 0.0;
+}
+body{
+   background:linear-gradient(240deg,#138808 33.33%, #FFFFFF 33.33% 66.66%, #FF671F 66.66% ); 
+
+}
+img{
+    opacity:1;
+    width: 400px;
+    height: 240px;
+margin-top: 20px;
+border-radius: 20%;
+text-align: center;
+justify-content: center;
+padding-left: 300px;
+}
+h1{
+    color: blue;
+}
+.tata{
+    color: white;
+    text-align: center;
+
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:rgb(4, 19, 20);
+    /* background: linear-gradient(to right,rgb(204, 220, 149),rgb(140, 204, 12),rgb(3, 169, 214));
+  */
+  background:linear-gradient(300deg,#138808 33.33%, #FFFFFF 33.33% 66.66%, #FF671F 66.66% ); 
+
+}
+h2{
+background: linear-gradient( #FF671F 33.33%, #FFFFFF 33.33% 66.66%, #138808 66.66% );
+    font-family: 'Times New Roman', Times, serif;
+}
+video{
+
+width: 100px;
+float: right;
+margin-bottom: 0px;
+padding: 0px;
+}
